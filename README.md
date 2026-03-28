@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Engineering+Student;Learning+Operating+Systems+Deeply;Building+Real+World+Projects;Focused+on+Systems+%26+Data" />
+<h1 align="center">Hi 👋, I'm Rajeev Kumar</h1>
+<h3 align="center">AI & Data Engineering Student | System-Focused Developer</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&lines=AI+%26+Data+Engineering+Student;System+Focused+Developer;Building+Real+Projects;Learning+OS+%26+Data+Deeply" />
 </p>
 
 ---
@@ -27,8 +32,8 @@ Here are some ideas to get you started:
 
 - 🎓 CSE Student focused on **AI & Data Engineering**
 - 🧠 Currently exploring **Operating Systems (Paging, LRU)**
-- 💻 Learning **Data Pipelines & Backend Systems**
-- ⚡ Believe in *learning by building real systems*
+- 💻 Learning **Data Engineering & Backend Systems**
+- ⚡ I believe in *learning by building real systems*
 
 ---
 
@@ -36,17 +41,15 @@ Here are some ideas to get you started:
 
 - Virtual Memory Optimization (OS concepts)
 - LRU Page Replacement Algorithm
-- Strengthening DSA & System Design
-- Exploring Data Engineering fundamentals
+- DSA & Problem Solving
+- Data Engineering fundamentals
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,vscode" />
-
 </p>
 
 ---
@@ -68,7 +71,7 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 Student Performance Tracker
-- Data handling & analysis based project
+- Data handling and analysis project
 - Focus on structured data processing
 
 ---
@@ -76,7 +79,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rajeevkrsingh17&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=rajeevkrsingh17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
 </p>
 
 ---
@@ -84,7 +87,7 @@ Here are some ideas to get you started:
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevkrsingh17&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevkrsingh17&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 </p>
 
 ---
@@ -92,7 +95,7 @@ Here are some ideas to get you started:
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeevkrsingh17&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeevkrsingh17&theme=github-compact&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
 </p>
 
 ---
