@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Rajeev Kumar</h1>
-<h3 align="center">AI & Data Engineering Student | System-Focused Developer</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Engineering+Student;Learning+Operating+Systems+Deeply;Building+Real+World+Projects;Focused+on+Systems+%26+Data" />
 <h1 align="center">Hi 👋, I'm Rajeev Kumar</h1>
 <h3 align="center">AI & Data Engineering Student | System-Focused Developer</h3>
 
