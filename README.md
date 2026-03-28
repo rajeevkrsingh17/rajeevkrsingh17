@@ -14,73 +14,103 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Rajeev Kumar
+<h1 align="center">Hi 👋, I'm Rajeev Kumar</h1>
+<h3 align="center">AI & Data Engineering Student | System-Focused Developer</h3>
 
-AI & Data Engineering Student | Building Systems, Not Just Code
-
----
-
-## About Me
-
-I am a Computer Science student focused on understanding how systems work internally — from memory management to data pipelines.
-
-Currently exploring:
-- Operating Systems (Paging, LRU, Memory Management)
-- Data Engineering fundamentals
-- Problem solving through DSA
-
-I prefer learning by building and testing real implementations rather than just theory.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Engineering+Student;Learning+Operating+Systems+Deeply;Building+Real+World+Projects;Focused+on+Systems+%26+Data" />
+</p>
 
 ---
 
-## Core Projects
+## 🚀 About Me
 
-### Virtual Memory Optimization Project
-- Simulated memory management techniques
-- Implemented paging strategies
-- Focused on performance and understanding OS-level behavior
-
-### LRU Page Replacement Algorithm
-- Built using Python and OrderedDict
-- Tracks memory access patterns
-- Demonstrates real-world page replacement logic
+- 🎓 CSE Student focused on **AI & Data Engineering**
+- 🧠 Currently exploring **Operating Systems (Paging, LRU)**
+- 💻 Learning **Data Pipelines & Backend Systems**
+- ⚡ Believe in *learning by building real systems*
 
 ---
 
-## Technical Focus
+## 🧠 What I'm Working On
 
-- Python
-- Data Structures & Algorithms
-- Operating Systems
-- SQL (learning phase)
-- Git & GitHub workflow
-
----
-
-## Current Direction
-
-- Moving towards Data Engineering
-- Learning how data flows through systems (ETL concepts)
-- Strengthening backend fundamentals
+- Virtual Memory Optimization (OS concepts)
+- LRU Page Replacement Algorithm
+- Strengthening DSA & System Design
+- Exploring Data Engineering fundamentals
 
 ---
 
-## Goals
+## 🛠️ Tech Stack
 
-- Build strong system-level understanding
-- Transition into Data Engineering roles
-- Work on real-world scalable projects
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,vscode" />
 
-## GitHub Activity
-
-![Stats](https://github-readme-stats.vercel.app/api?username=rajeevkrsingh17&show_icons=true&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajeevkrsingh17&theme=tokyonight)
+</p>
 
 ---
 
-## Connect
+## 📌 Featured Projects
 
-LinkedIn: https://www.linkedin.com/in/-rajeev-kumar-/
+### 🧠 Virtual Memory Optimization Project
+- Simulates memory management techniques
+- Implements paging strategies
+- Focus on performance & system behavior
+
+---
+
+### ⚡ LRU Page Replacement Algorithm
+- Built using Python (OrderedDict)
+- Tracks memory access efficiently
+- Demonstrates real OS-level logic
+
+---
+
+### 📊 Student Performance Tracker
+- Data handling & analysis based project
+- Focus on structured data processing
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rajeevkrsingh17&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevkrsingh17&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeevkrsingh17&theme=react-dark" />
+</p>
+
+---
+
+## 🎯 Goals
+
+- Build strong **system-level understanding**
+- Transition into **Data Engineering roles**
+- Work on **real-world scalable systems**
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/-rajeev-kumar-/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
+
+
