@@ -22,60 +22,97 @@ Here are some ideas to get you started:
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&lines=AI+%26+Data+Engineering+Student;System+Focused+Developer;Building+Real+Projects;Learning+OS+%26+Data+Deeply" />
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rajeevkrsingh17&color=00F7FF" />
+</p>
+
 ---
 
 ## 🚀 About Me
 
 - 🎓 CSE Student focused on **AI & Data Engineering**
-- 🧠 Currently exploring **Operating Systems (Paging, LRU)**
-- 💻 Learning **Data Engineering & Backend Systems**
-- ⚡ I believe in *learning by building real systems*
+- 🧠 Exploring **Operating Systems (Paging, LRU)**
+- 💻 Building **Backend & Data Systems**
+- ⚡ Learning by building real-world projects
 
 ---
 
-## 🧠 What I'm Working On
+## 🚧 Currently Working On
 
-- Virtual Memory Optimization (OS concepts)
+- Virtual Memory Optimization Project
 - LRU Page Replacement Algorithm
-- DSA & Problem Solving
 - Data Engineering fundamentals
+- DSA & Problem Solving
+
+---
+
+## 🧭 Learning Roadmap
+
+- Operating Systems → Memory Management, Scheduling  
+- Data Engineering → SQL, ETL, Pipelines  
+- Backend → APIs, System Design  
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,vscode" />
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css" />
+</p>
+
+### ⚙️ Backend & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure" />
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb" />
+</p>
+
+### 📊 Data Science & Visualization
+<p>
+<img src="https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy" />
+<img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas" />
+<img src="https://img.shields.io/badge/Matplotlib-000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Plotly-000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scikit--Learn-000?style=for-the-badge&logo=scikitlearn" />
+<img src="https://img.shields.io/badge/SciPy-000?style=for-the-badge" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://img.shields.io/badge/Gunicorn-000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Apache%20Cassandra-000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🧠 Virtual Memory Optimization Project
-- Simulates memory management techniques
-- Implements paging strategies
-- Focus on performance & system behavior
+### 🧠 Virtual Memory Optimization Project  
+🔗 https://github.com/verdhanyash/Virtual_Memory-Optimization_Proj  
 
----
+### ⚡ LRU Page Replacement Algorithm  
+🔗 https://github.com/verdhanyash/virtualization_paging-segmentation  
 
-### ⚡ LRU Page Replacement Algorithm
-- Built using Python (OrderedDict)
-- Tracks memory access efficiently
-- Demonstrates real OS-level logic
-
----
-
-### 📊 Student Performance Tracker
-- Data handling and analysis project
-- Focus on structured data processing
+### 📊 Student Performance Tracker  
+🔗 https://github.com/rajeevkrsingh17/student-performance-tracker  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rajeevkrsingh17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+<img src="https://github-readme-stats.vercel.app/api?username=rajeevkrsingh17&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -83,7 +120,15 @@ Here are some ideas to get you started:
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevkrsingh17&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+<img src="https://streak-stats.demolab.com?user=rajeevkrsingh17&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevkrsingh17&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -112,4 +157,6 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+---
 
+> I focus on understanding systems deeply rather than just writing code.
